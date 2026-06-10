@@ -1,1 +1,1 @@
-web: gunicorn autoshopify:app
+web: gunicorn app:app
